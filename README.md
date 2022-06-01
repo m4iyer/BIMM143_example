@@ -15,3 +15,7 @@ If IRS1 is a probable gene for causing type 2 diabetes and mice and humans have 
   rcsb_pdb_1IRS.fasta: file containing sequence of IRS1 gene in humans. 
   
   human.pdb: file containing IRS1 structure in humans. 
+
+  Project 2C Draft 1 of your Jupyter Notebook and Self-Assessment (2).html: html file of Project 2.
+  
+  Project 2C Draft 1 of your Jupyter Notebook and Self-Assessment (2).ipynb: Jupyter Notebook of Project 2.
